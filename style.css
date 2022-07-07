@@ -1,0 +1,203 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    margin: 0px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.header {
+    background-image: url(images/donation7.jpg);
+    background-repeat: no-repeat;
+    display: block;
+    width: 100%;
+    height: 320px;
+    text-align: center;
+    color: white;
+}
+
+
+.link-style {
+    background-color: tomato;
+    padding: 10px 40px;
+    margin-top: 10px;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+.donate-system {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.donate-system>div {
+    font-size: 20px;
+    margin: 10px;
+    padding: 14px;
+    width: 100px;
+}
+
+.header-2 {
+    text-align: center;
+}
+
+.para2 {
+    text-align: center;
+}
+
+#box-style {
+    border: 3px solid rgb(159, 36, 14);
+    background-color: rgb(164, 115, 106);
+
+
+}
+
+.donet-class input {
+    text-align: center;
+
+    background-color: aqua;
+}
+
+
+
+
+
+
+.link-style2 {
+
+    max-width: 100px;
+    background-color: tomato;
+    padding: 10px 40px;
+    margin-top: 10px;
+
+}
+
+.link-style2 a {
+    margin: 0 auto;
+}
+
+.inpu2-style {
+    border: none;
+
+    font-size: 20px;
+    text-align: center;
+
+}
+
+.text-style {
+    text-align: center;
+}
+
+.text-style a {
+    width: 100px;
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 40px;
+    margin-top: 40px;
+    margin-left: 30px;
+
+}
+
+.donet1 {
+
+    border: none;
+    outline: none;
+    border-bottom: 4px solid black;
+
+}
+
+.donet-style {
+
+    text-align: center;
+    margin: 20px;
+}
+
+/* .donet-class input {
+    border: none;
+    margin-bottom: 40px; */
+
+
+
+
+.flex-section p {
+    text-align: center;
+
+}
+
+.flex-section h2 {
+    text-align: center;
+}
+
+
+.flex-container {
+    display: flex;
+
+
+}
+
+.style-shadow {
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 40%;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray;
+    padding: 20px;
+    background-image: linear-gradient(red tomato);
+
+}
+
+#background-color {
+    background-color: aquamarine;
+
+}
+
+#background-color1 {
+    background-color: rgb(134, 134, 100);
+
+}
+
+#background-color2 {
+    background-color: salmon;
+
+}
+
+.Famine-section {
+    display: flex;
+}
+
+.half-width {
+    width: 40%;
+}
+
+.half-width img {
+    width: 60%;
+
+}
+
+.header-design {
+    text-align: center;
+}
+
+.input-form {
+    /* text-align: center; */
+    margin: 0 auto;
+    padding: 40px;
+    width: 350px;
+    background-color: rgb(237, 174, 163);
+}
+
+.input-form button {
+    background-color: tomato;
+
+}
+
+.footer-section {
+    background-color: black;
+    width: 100%;
+    height: 100px;
+    color: tomato;
+    text-align: center;
+}
