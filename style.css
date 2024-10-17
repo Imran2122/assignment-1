@@ -115,12 +115,6 @@ h1 {
     margin: 20px;
 }
 
-/* .donet-class input {
-    border: none;
-    margin-bottom: 40px; */
-
-
-
 
 .flex-section p {
     text-align: center;
@@ -200,4 +194,22 @@ h1 {
     height: 100px;
     color: tomato;
     text-align: center;
+}
+
+@media screen and (max-width: 576px){
+    .donate-system ,.flex-container{
+     flex-direction: column;
+     align-items: center;
+    }
+    .flex-container{
+        width: 100%;
+        gap: 20px;
+    }
+    .half-width{
+        width: 20%;
+    }
+    .input-form{
+        padding: 10px;
+    }
+    
 }
